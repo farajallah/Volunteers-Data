@@ -1,129 +1,120 @@
 Job Title,Job Title Group
-A/V Media Advisor,Public Information
-A/V Media Assistant,Public Information
-A/V Media Officer,Public Information
-Accounts Advisor,Finance/Budget
-Accounts Assistant,Finance/Budget
-Accounts Officer,Finance/Budget
-Admin/Finance Advisor,Admin/Finance
-Admin/Finance Assistant,Admin/Finance
-Admin/Finance Officer,Admin/Finance
 Administrative Advisor,Administrative
 Administrative Assistant,Administrative
 Administrative Officer,Administrative
-Adolescent Rep Health Advisor,Health
-Economics Advisor,Socio-economic
-Economics Assistant,Socio-economic
-Economics Officer,Socio-economic
-Air Conditioning Technician,Logistics
-Air Operations Assistant,Logistics
-Air Operations Officer,Logistics
-Architect Advisor,Engineering
-Architect Assistant,Engineering
-Architect Officer,Engineering
 Archivist,Administrative
-Artist,Others
 Asset Management Advisor,Administrative
 Asset Management Assistant,Administrative
 Asset Management Officer,Administrative
-Associate Portfolio Manager,Programme management
-Audit Officer,Programme management
-Energy &Environment Advisor,Energy & Environment
-Energy &Environment Assistant,Energy & Environment
-Energy &Environment Officer,Energy & Environment
-Agriculture Advisor,Energy & Environment
-Budget Advisor,Finance/Budget
-Budget Assistant,Finance/Budget
-Budget Officer,Finance/Budget
-CAD Operator,Engineering
-Agriculture Assistant,Energy & Environment
-Capacity Building Advisor,Education
-Capacity Building Assistant,Education
-Capacity Building Officer,Education
-Cashier,Finance/Budget
-Chief Technical Advisor,Others
-Agriculture Officer,Energy & Environment
-Biodiversity Advisor,Energy & Environment
-Biodiversity Assistant,Energy & Environment
-Co-Financing Officer,Finance/Budget
+Contracts Advisor,Administrative
+Contracts Assistant,Administrative
+Contracts Officer,Administrative
+Deputy Director,Administrative
+Documents Advisor,Administrative
+Documents Officer,Administrative
+Event Coordinator,Administrative
+Executive Assistant,Administrative
+Facilitator,Administrative
+Field Assistant,Administrative
+Field Officer,Administrative
+Head of Administration,Administrative
+Head of Office,Administrative
+Mail Clerk,Administrative
+Office Automation Assistant,Administrative
+Operations Advisor,Administrative
+Operations Assistant,Administrative
+Operations Officer,Administrative
+Personal Assistant,Administrative
+Production Advisor,Administrative
+Production Assistant,Administrative
+Production Officer,Administrative
+Resource Mobilizatn Advisor,Administrative
+Resource Mobilizatn Assistant,Administrative
+Resource Mobilizatn Officer,Administrative
+Round Table Officer,Administrative
+Secretary,Administrative
+Assistant To Head Of Office,Administrative
+TOKTEN Assistant,Administrative
+Data Entry Assistant,Administrative
+Data Entry Clerk,Administrative
+Data Management Clerk,Administrative
 Communications Advisor,Communications
 Communications Analyst,Communications
 Communications Assistant,Communications
 Communications Officer,Communications
 Communications Specialist,Communications
 Communications Technician,Communications
-Community Develop Advisor,Community Develop
-Community Develop Assistant,Community Develop
-Community Develop Officer,Community Develop
 Conflict Resolution Officer,Disaster Management
-Construction Officer,Engineering
-Contracts Advisor,Administrative
-Contracts Assistant,Administrative
-Contracts Officer,Administrative
-Coordinator,Project Management
 Crisis Prev & Recov Advisor,Disaster Management
 Crisis Prev & Recov Assistant,Disaster Management
 Crisis Prev & Recov Officer,Disaster Management
-Biodiversity Officer,Energy & Environment
-Data Entry Assistant,Clerical services
-Data Entry Clerk,Clerical services
-Data Management Clerk,Clerical services
-DDR Officer,Others
-Democratic Govern Advisor,Political Affairs
-Democratic Govern Assistant,Political Affairs
-Democratic Govern Officer,Political Affairs
-BOI Officer (Board of Inquiry),Energy & Environment
-Dentist,Health
-Deputy Director,Administrative
 Disaster Management Assistant,Disaster Management
 Disaster Management Officer,Disaster Management
+Emergency Assistant,Disaster Management
+Emergency Officer,Disaster Management
+Capacity Building Advisor,Education
+Capacity Building Assistant,Education
+Capacity Building Officer,Education
+Education Advisor,Education
+Education Assistant,Education
+Education Officer,Education
+Learning Resource Advisor,Education
+Learning Resource Assistant,Education
+Learning Resource Officer,Education
+Library Assistant,Education
+Mine Awareness Officer,Education
+Mine Risk Education Officer,Education
+Sport Assistant,Education
+Sport Officer,Education
+Training Officer,Education
+Voter/Civic Education Officer,Education
+Energy &Environment Advisor,Energy & Environment
+Energy &Environment Assistant,Energy & Environment
+Energy &Environment Officer,Energy & Environment
+Agriculture Advisor,Energy & Environment
+Agriculture Assistant,Energy & Environment
+Agriculture Officer,Energy & Environment
+Biodiversity Advisor,Energy & Environment
+Biodiversity Assistant,Energy & Environment
+Biodiversity Officer,Energy & Environment
+BOI Officer (Board of Inquiry),Energy & Environment
 Cultural Heritage Officer,Energy & Environment
 Environment Advisor,Energy & Environment
-Documents Advisor,Administrative
-Documents Officer,Administrative
 Environment Assistant,Energy & Environment
 Environment Officer,Energy & Environment
-Driver,Logistics
 Meteorologist,Energy & Environment
 Natural Reserves Mgmt Officer,Energy & Environment
 Solid Waste Mgmt Advisor,Energy & Environment
 Solid Waste Mgmt Assistant,Energy & Environment
-Editorial Advisor,Public Information
-Editorial Assistant,Public Information
-Editorial Officer,Public Information
-Education Advisor,Education
-Education Assistant,Education
-Education Officer,Education
-Electoral Advisor,Political Affairs
-Electoral Officer,Political Affairs
-Electrician,Logistics
 Solid Waste Mgmt Officer,Energy & Environment
 Water & Sanitation Advisor,Energy & Environment
-Email Administrator,Information Technology
-Emergency Assistant,Disaster Management
-Emergency Officer,Disaster Management
 Water & Sanitation Assistant,Energy & Environment
 Water & Sanitiation Officer,Energy & Environment
-Donor Relations Assistant,Fundraising & Marketing
+Architect Advisor,Engineering
+Architect Assistant,Engineering
+Architect Officer,Engineering
+CAD Operator,Engineering
+Construction Officer,Engineering
 Engineer,Engineering
 Engineering Advisor,Engineering
 Engineering Assistant,Engineering
 Engineering Officer,Engineering
-Donor Relations Officer,Fundraising & Marketing
-Trust Fund Officer,Fundraising & Marketing
-Marketing Advisor,Fundraising & Marketing
-ERP Help Desk Assistant,Information Technology
-Event Coordinator,Administrative
-Executive Assistant,Administrative
-Facilitator,Administrative
-Facilities Advisor,Logistics
-Facilities Assistant,Logistics
-Facilities Officer,Logistics
-Field Assistant,Administrative
-Field Officer,Administrative
-Field Security Advisor,Safety and Security
-Field Security Assistant,Safety and Security
-Field Security Officer,Safety and Security
+Geologist,Engineering
+Hydrologist,Engineering
+Infrastructure Assistant,Engineering
+Infrastructure Officer,Engineering
+Infrastructure Associate,Engineering
+Accounts Advisor,Finance/Budget
+Accounts Assistant,Finance/Budget
+Accounts Officer,Finance/Budget
+Admin/Finance Advisor,Finance/Budget
+Admin/Finance Assistant,Finance/Budget
+Admin/Finance Officer,Finance/Budget
+Budget Advisor,Finance/Budget
+Budget Assistant,Finance/Budget
+Budget Officer,Finance/Budget
+Cashier,Finance/Budget
+Co-Financing Officer,Finance/Budget
 Finance Advisor,Finance/Budget
 Finance Assistant,Finance/Budget
 Finance Officer,Finance/Budget
@@ -137,52 +128,79 @@ Finance/Budget Officer,Finance/Budget
 Financial Mgmt Advisor,Finance/Budget
 Financial Mgmt Assistant,Finance/Budget
 Financial Mgmt Officer,Finance/Budget
-Fire and Rescue Assistant,Safety and Security
-Food Aid Monitor,M & E
-Food Monitoring Advisor,M & E
-Food Monitoring Assistant,M & E
-Food Monitoring Officer,M & E
-Food Scientist,Health
-Fuel Assistant,Logistics
-Fuel Supervisor,Logistics
-Furniture/Goods Officer,Logistics
-Gender Advisor,Gender
-Gender Assistant,Gender
-Gender Officer,Gender
-Gender & Masculinity Expert,Gender
-Gender & SocCult Res Advisor,Gender
-Gender Expert,Gender
-Generator Mechanic,Logistics
-Geo Info System Advisor,Information Technology
-Geo Info System Assistant,Information Technology
-Geo Info System Officer,Information Technology
-Geologist,Engineering
-Graphic Designer,Information Technology
+HR/Finance Assistant,Finance/Budget
+HR/Finance Officer,Finance/Budget
+Payroll Officer,Finance/Budget
+TAX Administration Advisor,Finance/Budget
+TAX Administration Officer,Finance/Budget
+Donor Relations Assistant,Fundraising & Marketing
+Donor Relations Officer,Fundraising & Marketing
+Trust Fund Officer,Fundraising & Marketing
+Marketing Advisor,Fundraising & Marketing
 Marketing Assistant,Fundraising & Marketing
-Head of Administration,Administrative
-Head of Office,Administrative
+Marketing Officer,Fundraising & Marketing
+UN Coordination Assistant,Fundraising & Marketing
+UN Coordination Officer,Fundraising & Marketing
+Volunteer Network Specialist,Fundraising & Marketing
+Adolescent Rep Health Advisor,Health
+Dentist,Health
+Food Scientist,Health
 Health Assistant,Health
 Health Officer,Health
 HIV/AIDS Advisor,Health
 HIV/AIDS Assistant,Health
 HIV/AIDS Officer,Health
-HR/Finance Assistant,Finance/Budget
-HR/Finance Officer,Finance/Budget
+Hygiene Promotion Officer,Health
+Laboratory Officer,Health
+Laboratory Technician,Health
+Medical Doctor,Health
+Midwife,Health
+Nurse,Health
+Nutrition Officer,Health
+Paramedic,Health
+Pharmacist,Health
+Prev. SexExploit.& Abuse Off.,Health
+Psychologist,Health
+Rehabilitation Assistant,Health
+Rehabilitation Officer,Health
+Rep Health & Fam Plan Advisor,Health
+Rep Health Qual of Care Expert,Health
+Rep Health Train & Mgmt Expert,Health
+Reproductive Health Advisor,Health
+Reproductive Health Assistant,Health
+Reproductive Health Officer,Health
+Sex&Rep Health Advocacy Expert,Health
+Sex&Rep Health Promo Expert,Health
+Sex&Rep Health QualCare Expert,Health
+UN Dispensary Physician,Health
+Veterinarian,Health
 Human Develop Rpt Advisor,Human Resources
 Human Develop Rpt Assistant,Human Resources
 Human Develop Rpt Officer,Human Resources
 Human Resources Advisor,Human Resources
 Human Resources Assistant,Human Resources
 Human Resources Officer,Human Resources
+Gender Advisor,Human Rights
+Gender Assistant,Human Rights
+Gender Officer,Human Rights
+Gender & Masculinity Expert,Human Rights
+Gender & SocCult Res Advisor,Human Rights
+Gender Expert,Human Rights
 Human Rights Advisor,Human Rights
 Human Rights Assistant,Human Rights
 Human Rights Officer,Human Rights
-Marketing Officer,Fundraising & Marketing
 Humanitarian Affairs Advisor,Human Rights
 Humanitarian Affairs Assistant,Human Rights
 Humanitarian Affairs Officer,Human Rights
-Hydrologist,Engineering
-Hygiene Promotion Officer,Health
+Knowledge Mgmt Advisor,Information Technology
+Knowledge Mgmt Assistant,Information Technology
+Knowledge Mgmt Officer,Information Technology
+Email Administrator,Information Technology
+ERP Help Desk Assistant,Information Technology
+Geo Info System Advisor,Information Technology
+Geo Info System Assistant,Information Technology
+Geo Info System Officer,Information Technology
+Graphic Designer,Information Technology
 ICT Advisor,Information Technology
 ICT Assistant,Information Technology
 ICT Officer,Information Technology
@@ -190,115 +208,130 @@ ICT Technician,Information Technology
 ICT Development Advisor,Information Technology
 ICT Development Assistant,Information Technology
 ICT Development Officer,Information Technology
-UN Coordination Assistant,Fundraising & Marketing
-Infrastructure Assistant,Engineering
-Infrastructure Officer,Engineering
-Infrastructure Associate,Engineering
-Interpret/Translate Advisor,Interpret/Translate
-Interpret/Translate Assistant,Interpret/Translate
-Interpret/Translate Officer,Interpret/Translate
-Inventory Assistant,Logistics
-Inventory Officer,Logistics
-Judicial Officer,Others
-Knowledge Mgmt Advisor,Information management
-Knowledge Mgmt Assistant,Information management
-Knowledge Mgmt Officer,Information management
-Laboratory Officer,Health
-Laboratory Technician,Health
 LAN Assistant,Information Technology
 LAN Officer,Information Technology
-Learning Resource Advisor,Education
-Learning Resource Assistant,Education
-Learning Resource Officer,Education
+Network Advisor,Information Technology
+Network Assistant,Information Technology
+Network Officer,Information Technology
+Sattellite Technician,Information Technology
+Systems Development Advisor,Information Technology
+Systems Development Assistant,Information Technology
+Systems Development Officer,Information Technology
+Webiste Advisor,Information Technology
+Website Assistant,Information Technology
+Website Officer,Information Technology
+A/V Media Assistant,Job Title Group
 Legal Advisor,Legal
 Legal Assistant,Legal
 Legal Officer,Legal
 Legal & Procurement Advisor,Legal
 Legal & Procurement Assistant,Legal
 Legal & Procurement Officer,Legal
+Air Conditioning Technician,Logistics
+Air Operations Assistant,Logistics
+Air Operations Officer,Logistics
+Driver,Logistics
+Electrician,Logistics
+Facilities Advisor,Logistics
+Facilities Assistant,Logistics
+Facilities Officer,Logistics
+Fuel Assistant,Logistics
+Fuel Supervisor,Logistics
+Furniture/Goods Officer,Logistics
+Generator Mechanic,Logistics
+Inventory Assistant,Logistics
+Inventory Officer,Logistics
 Liaison Advisor,Logistics
 Liaison Assistant,Logistics
 Liaison Officer,Logistics
-Library Assistant,Education
 Logistics Advisor,Logistics
 Logistics Assistant,Logistics
 Logistics Officer,Logistics
 Machine Operator,Logistics
-Mail Clerk,Administrative
-Management Advisor,Programme management
-Management Assistant,Programme management
-Management Officer,Programme management
-Managing Editor,Public Information
-UN Coordination Officer,Fundraising & Marketing
-Volunteer Network Specialist,Fundraising & Marketing
-Camp Manager,Socio-economic
 Mechanic,Logistics
-Media Relations Advisor,Public Information
-Media Relations Assistant,Public Information
-Media Relations Officer,Public Information
-Medical Doctor,Health
-Civil Affairs Assistant,Socio-economic
-Midwife,Health
-Mine Action Expert,Others
-Mine Awareness Officer,Education
-Mine Risk Education Officer,Education
-Mine Victims Asst Assistant,Others
+Photographer,Logistics
+Radio Operator,Logistics
+Receptionist,Logistics
+Records Assistant,Logistics
+Transport Officer,Logistics
+Travel Assistant,Logistics
+Vehicle Mechanic,Logistics
+Warehouse Manager,Logistics
+Food Aid Monitor,M & E
+Food Monitoring Advisor,M & E
+Food Monitoring Assistant,M & E
+Food Monitoring Officer,M & E
 Monitoring And Eval Advisor,M & E
 Monitoring And Eval Assistant,M & E
 Monitoring And Eval Officer,M & E
+Reports Advisor,M & E
+Reports Assistant,M & E
+Reports Officer,M & E
+Community Develop Advisor,Others
+Community Develop Assistant,Others
+Community Develop Officer,Others
+Artist,Others
+Chief Technical Advisor,Others
+DDR Officer,Others
+Judicial Officer,Others
+Mine Action Expert,Others
+Mine Victims Asst Assistant,Others
 MOVCON Officer,Others
-Civil Affairs Officer,Socio-economic
-Network Advisor,Information Technology
-Network Assistant,Information Technology
-Network Officer,Information Technology
-Nurse,Health
-Nutrition Officer,Health
-Office Automation Assistant,Administrative
-Operations Advisor,Administrative
-Operations Assistant,Administrative
-Operations Officer,Administrative
-Organizational Dvlpmt. Officer,Programme management
-Outreach Assistant,Public Information
-Outreach Officer,Public Information
-Paramedic,Health
-Payroll Officer,Finance/Budget
+Reintegration Officer,Others
+Repatriation Assistant,Others
+Repatriation Officer,Others
+Technical Advisor,Others
+Technical Assistant,Others
+Technical Officer,Others
+Trade Policy Assistant,Others
+Trade Policy Officer,Others
+Verification Officer,Others
+Democratic Govern Advisor,Political Affairs
+Democratic Govern Assistant,Political Affairs
+Democratic Govern Officer,Political Affairs
+Electoral Advisor,Political Affairs
+Electoral Officer,Political Affairs
 Peace Building Officer,Political Affairs
-Personal Assistant,Administrative
-Pharmacist,Health
-Photographer,Logistics
-Planning Advisor,Programme management
-Planning Assistant,Programme management
-Planning Officer,Programme management
-Policy Advisor,Programme management
-Policy Assistant,Programme management
-Policy Officer,Programme management
 Political Affairs Officer,Political Affairs
-Pop & Develop Strategy Expert,Programme management
-Portfolio Assistant,Programme management
-Portfolio Officer,Programme management
-Cluster Manager,Socio-economic
-Demographer,Socio-economic
-Distribution Assistant,Socio-economic
-Prev. SexExploit.& Abuse Off.,Health
 Procurement Advisor,Procurement
 Procurement Assistant,Procurement
 Procurement Officer,Procurement
-Production Advisor,Administrative
-Production Assistant,Administrative
-Production Officer,Administrative
-Programme Advisor,Programme management
-Programme Assistant,Programme management
-Programme Officer,Programme management
-Programme Analyst,Programme management
-Programme Clerk,Programme management
-Programme Finance Advisor,Programme management
-Programme Finance Assistant,Programme management
-Programme Finance Officer,Programme management
-Programme Mgmt Advisor,Programme management
-Programme Mgmt Assistant,Programme management
-Programme Mgmt Officer,Programme management
-Programme Support Assistant,Programme management
-Programme Support Associate,Programme management
+Purchasing Assistant,Procurement
+Associate Portfolio Manager,Programme Management
+Audit Officer,Programme Management
+Management Advisor,Programme Management
+Management Assistant,Programme Management
+Management Officer,Programme Management
+Organizational Dvlpmt. Officer,Programme Management
+Planning Advisor,Programme Management
+Planning Assistant,Programme Management
+Planning Officer,Programme Management
+Policy Advisor,Programme Management
+Policy Assistant,Programme Management
+Policy Officer,Programme Management
+Pop & Develop Strategy Expert,Programme Management
+Portfolio Assistant,Programme Management
+Portfolio Officer,Programme Management
+Programme Advisor,Programme Management
+Programme Assistant,Programme Management
+Programme Officer,Programme Management
+Programme Analyst,Programme Management
+Programme Clerk,Programme Management
+Programme Finance Advisor,Programme Management
+Programme Finance Assistant,Programme Management
+Programme Finance Officer,Programme Management
+Programme Mgmt Advisor,Programme Management
+Programme Mgmt Assistant,Programme Management
+Programme Mgmt Officer,Programme Management
+Programme Support Assistant,Programme Management
+Programme Support Associate,Programme Management
+Quality Control Assistant,Programme Management
+Quality Control Officer,Programme Management
+Assistant Regional Coordinator,Programme Management
+Regional Coordinator,Programme Management
+UNV Programme Officer,Programme Management
+UNV Support Unit Officer,Programme Management
+Coordinator,Project Management
 Project Coord Advisor,Project Management
 Project Coord Assistant,Project Management
 Project Coord Officer,Project Management
@@ -306,133 +339,100 @@ Project Management Advisor,Project Management
 Project Management Assistant,Project Management
 Project Management Officer,Project Management
 Project Manager,Project Management
-Protection Assistant,Safety and Security
-Protection Officer,Safety and Security
-Psychologist,Health
+Risk Assessment Assistant,Project Management
+Risk Assessment Officer,Project Management
+Team Leader,Project Management
+Volunteer Mgmt Specialist,Project Management
+Volunteerism Assistant,Project Management
+Volunteerism Officer,Project Management
+Interpret/Translate Advisor,Public Information
+Interpret/Translate Assistant,Public Information
+Interpret/Translate Officer,Public Information
+A/V Media Advisor,Public Information
+A/V Media Officer,Public Information
+Editorial Advisor,Public Information
+Editorial Assistant,Public Information
+Editorial Officer,Public Information
+Managing Editor,Public Information
+Media Relations Advisor,Public Information
+Media Relations Assistant,Public Information
+Media Relations Officer,Public Information
+Outreach Assistant,Public Information
+Outreach Officer,Public Information
 Public Affairs Advisor,Public Information
 Public Affairs Assistant,Public Information
 Public Affairs Officer,Public Information
 Public Information Advisor,Public Information
 Public Information Assistant,Public Information
 Public Information Officer,Public Information
-Purchasing Assistant,Procurement
-Quality Control Assistant,Programme management
-Quality Control Officer,Programme management
-Radio Operator,Logistics
-Receptionist,Logistics
-Records Assistant,Logistics
-Distribution Clerk,Socio-economic
-Assistant Regional Coordinator,Programme management
-Regional Coordinator,Programme management
 Regional Info Advisor,Public Information
 Regional Info Assistant,Public Information
 Regional Info Officer,Public Information
 Regional Thematic Officer,Public Information
-Drugs & Crime Prevent. Officer,Socio-economic
-Eligibility Assistant,Socio-economic
-Eligibility Officer,Socio-economic
-Rehabilitation Assistant,Health
-Rehabilitation Officer,Health
-Reintegration Officer,Others
-Handicraft Dvlpmt. Officer,Socio-economic
-Rep Health & Fam Plan Advisor,Health
-Rep Health Qual of Care Expert,Health
-Rep Health Train & Mgmt Expert,Health
-Repatriation Assistant,Others
-Repatriation Officer,Others
-Reports Advisor,M & E
-Reports Assistant,M & E
-Reports Officer,M & E
-Reproductive Health Advisor,Health
-Reproductive Health Assistant,Health
-Reproductive Health Officer,Health
-Research Advisor,Research
-Research Assistant,Research
-Research Officer,Research
-Human Settlement Officer,Socio-economic
-Income Generation Advisor,Socio-economic
-Resource Mobilizatn Advisor,Administrative
-Resource Mobilizatn Assistant,Administrative
-Resource Mobilizatn Officer,Administrative
-Risk Assessment Assistant,Project Management
-Risk Assessment Officer,Project Management
-Round Table Officer,Administrative
-Poverty Reduction Advisor,Socio-economic
-Poverty Reduction Assistant,Socio-economic
-Sattellite Technician,Information Technology
-Secretary,Administrative
-Security Officer,Safety and Security
-Sex&Rep Health Advocacy Expert,Health
-Sex&Rep Health Promo Expert,Health
-Sex&Rep Health QualCare Expert,Health
-Poverty Reduction Officer,Socio-economic
-Refugee Status Determ. Officer,Socio-economic
-Registration Assistant,Socio-economic
-Registration Officer,Socio-economic
-Registry Assistant,Socio-economic
-Relief Coordinator,Socio-economic
-Resettlement Assistant,Socio-economic
-Resettlement Officer,Socio-economic
-Rural Development Assistant,Socio-economic
-Rural Development Officer,Socio-economic
-Small Business Advisor,Socio-economic
-Small Business Assistant,Socio-economic
-Sport Assistant,Education
-Sport Officer,Education
-Statistics Advisor,Research
-Statistics Assistant,Research
-Statistics Officer,Research
-Small Business Officer,Socio-economic
-Surveying Assistant,Research
-Surveying Officer,Research
-SocioCultural & Gender Expert,Socio-economic
-Socio-economic Assistant,Socio-economic
-Socio-economic Officer,Socio-economic
-Systems Development Advisor,Information Technology
-Systems Development Assistant,Information Technology
-Systems Development Officer,Information Technology
-TAX Administration Advisor,Finance/Budget
-TAX Administration Officer,Finance/Budget
-Team Leader,Project Management
-Technical Advisor,Others
-Technical Assistant,Others
-Technical Officer,Others
 Telecommunications Advisor,Public Information
 Telecommunications Assistant,Public Information
 Telecommunications Officer,Public Information
-Assistant To Head Of Office,Administrative
-TOKTEN Assistant,Administrative
-Tourism Development Assistant,Socio-economic
-Tourism Development Officer,Socio-economic
-Trade Policy Assistant,Others
-Trade Policy Officer,Others
-Training Officer,Education
-Transport Officer,Logistics
-Travel Assistant,Logistics
-Sociology Advisor,Socio-economic
-Sociology Assistant,Socio-economic
-Sociology Officer,Socio-economic
-UN Dispensary Physician,Health
-UNV Programme Officer,Programme management
-UNV Support Unit Officer,Programme management
-Stress Management Counselor,Socio-economic
-Sustainable Develop Advisor,Socio-economic
-Vehicle Mechanic,Logistics
-Verification Officer,Others
-Veterinarian,Health
-Volunteer Mgmt Specialist,Project Management
-Sustainable Develop Assistant,Socio-economic
-Volunteerism Assistant,Project Management
-Volunteerism Officer,Project Management
-Voter/Civic Education Officer,Education
-Sustainable Develop Officer,Socio-economic
-Urban Development Assistant,Socio-economic
-Urban Development Officer,Socio-economic
-Warehouse Manager,Logistics
-Vuln Anl & Mapping Advisor,Socio-economic
-Vuln Anl & Mapping Assistant,Socio-economic
-Vuln Anl & Mapping Officer,Socio-economic
-Webiste Advisor,Information Technology
-Website Assistant,Information Technology
-Website Officer,Information Technology
-Youth Counselor,Socio-economic
+Research Advisor,Research
+Research Assistant,Research
+Research Officer,Research
+Statistics Advisor,Research
+Statistics Assistant,Research
+Statistics Officer,Research
+Surveying Assistant,Research
+Surveying Officer,Research
+Field Security Advisor,Safety And Security
+Field Security Assistant,Safety And Security
+Field Security Officer,Safety And Security
+Fire and Rescue Assistant,Safety And Security
+Protection Assistant,Safety And Security
+Protection Officer,Safety And Security
+Security Officer,Safety And Security
+Economics Advisor,Socioeconomic
+Economics Assistant,Socioeconomic
+Economics Officer,Socioeconomic
+Camp Manager,Socioeconomic
+Civil Affairs Assistant,Socioeconomic
+Civil Affairs Officer,Socioeconomic
+Cluster Manager,Socioeconomic
+Demographer,Socioeconomic
+Distribution Assistant,Socioeconomic
+Distribution Clerk,Socioeconomic
+Drugs & Crime Prevent. Officer,Socioeconomic
+Eligibility Assistant,Socioeconomic
+Eligibility Officer,Socioeconomic
+Handicraft Dvlpmt. Officer,Socioeconomic
+Human Settlement Officer,Socioeconomic
+Income Generation Advisor,Socioeconomic
+Poverty Reduction Advisor,Socioeconomic
+Poverty Reduction Assistant,Socioeconomic
+Poverty Reduction Officer,Socioeconomic
+Refugee Status Determ. Officer,Socioeconomic
+Registration Assistant,Socioeconomic
+Registration Officer,Socioeconomic
+Registry Assistant,Socioeconomic
+Relief Coordinator,Socioeconomic
+Resettlement Assistant,Socioeconomic
+Resettlement Officer,Socioeconomic
+Rural Development Assistant,Socioeconomic
+Rural Development Officer,Socioeconomic
+Small Business Advisor,Socioeconomic
+Small Business Assistant,Socioeconomic
+Small Business Officer,Socioeconomic
+SocioCultural & Gender Expert,Socioeconomic
+Socio-economic Assistant,Socioeconomic
+Socio-economic Officer,Socioeconomic
+Tourism Development Assistant,Socioeconomic
+Tourism Development Officer,Socioeconomic
+Sociology Advisor,Socioeconomic
+Sociology Assistant,Socioeconomic
+Sociology Officer,Socioeconomic
+Stress Management Counselor,Socioeconomic
+Sustainable Develop Advisor,Socioeconomic
+Sustainable Develop Assistant,Socioeconomic
+Sustainable Develop Officer,Socioeconomic
+Urban Development Assistant,Socioeconomic
+Urban Development Officer,Socioeconomic
+Vuln Anl & Mapping Advisor,Socioeconomic
+Vuln Anl & Mapping Assistant,Socioeconomic
+Vuln Anl & Mapping Officer,Socioeconomic
+Youth Counselor,Socioeconomic
